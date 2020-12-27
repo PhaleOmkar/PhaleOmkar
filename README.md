@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there, 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&theme=highcontrast&show_icons=true&count_private=true)
+🌱 I’m currently learning Graphics programming in OpenGL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaleOmkar)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/PhaleOmkar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaleOmkar)](https://github.com/PhaleOmkar)
 
 <!--
 **PhaleOmkar/PhaleOmkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

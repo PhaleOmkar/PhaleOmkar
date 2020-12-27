@@ -2,9 +2,13 @@
 
 🌱 I’m currently learning Graphics programming in OpenGL
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&theme=highcontrast&show_icons=true&count_private=true)](https://github.com/PhaleOmkar)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&count_private=true&theme=radical)](https://github.com/PhaleOmkar)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaleOmkar)](https://github.com/PhaleOmkar)
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaleOmkar&layout=compact&count_private=true&theme=radical)](https://github.com/PhaleOmkar)
+
+---
 
 <!--
 **PhaleOmkar/PhaleOmkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

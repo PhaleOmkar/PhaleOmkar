@@ -2,8 +2,8 @@
 
 🌱 I’m currently learning Graphics programming in OpenGL
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&count_private=true&theme=radical)](https://github.com/PhaleOmkar)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true) !
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaleOmkar&layout=compact)
 ---
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaleOmkar&layout=compact&count_private=true&theme=radical)](https://github.com/PhaleOmkar)

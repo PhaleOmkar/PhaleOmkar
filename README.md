@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-🌱 I’m currently learning Graphics programming in OpenGL
+🌱 I’m currently learning graphics programming.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=radical)
 

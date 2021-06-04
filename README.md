@@ -2,8 +2,10 @@
 
 🌱 I’m currently learning graphics programming.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true)
+GitHub Stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=gotham" alt="PhaleOmkar" />
+  
 ---
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-🌱 I’m currently learning graphics programming.
+🌱 Currently learning graphics programming.
 
 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=gotham" alt="PhaleOmkar" />

@@ -3,6 +3,8 @@
 🌱 Currently learning graphics programming.
 
 GitHub Stats
+[![Phale Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaleomkar)](https://github.com/phaleomkar/github-readme-stats)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=gotham" alt="PhaleOmkar" />
   
 ---

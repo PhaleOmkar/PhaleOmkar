@@ -2,7 +2,7 @@
 
 🌱 Currently learning graphics programming.
 
-[![Phale Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaleomkar&count_private=true&show_icons=true&theme=gotham)](https://github.com/phaleomkar/github-readme-stats)
+[![Phale Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaleomkar&count_private=true&show_icons=true&theme=radical)](https://github.com/phaleomkar/github-readme-stats)
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=" alt="PhaleOmkar" /> -->  
 ---

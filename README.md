@@ -21,6 +21,15 @@
 <img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
+### Platforms:
+
+<img align="left" alt="Windows" height="28px" src="https://api.iconify.design/logos:microsoft-windows.svg" />
+<img align="left" alt="Ubuntu" height="28px" src="https://api.iconify.design/logos:ubuntu.svg" />
+<img align="left" alt="Android" height="28px" src="https://api.iconify.design/logos:android.svg" />
+<img align="left" alt="macOS" height="20px" src="https://api.iconify.design/logos:macos.svg" />
+<img align="left" alt="iOS" height="20px" src="https://api.iconify.design/logos:ios.svg" /
+<br />
+
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=" alt="PhaleOmkar" /> -->  
 ---

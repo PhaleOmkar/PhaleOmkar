@@ -32,22 +32,9 @@
 
 <br />
 
----
-### Overall Stats:
-
-[![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=phaleomkar&count_private=true&theme=prussian)](https://github.com/phaleomkar)
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaleomkar&layout=compact&count_private=true&theme=prussian)](https://github.com/phaleomkar)
-
----
-
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=" alt="PhaleOmkar" /> -->  
----
 
-<!--
-**PhaleOmkar/PhaleOmkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**PhaleOmkar/PhaleOmkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

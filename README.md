@@ -1,7 +1,7 @@
 ### Hi there, 👋
 
 🌱 Currently learning graphics programming.
-
+---
 [![Phale Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaleomkar&count_private=true&show_icons=true&theme=github_dark)](https://github.com/phaleomkar/github-readme-stats) 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaleomkar&layout=compact&count_private=true&theme=github_dark)](https://github.com/phaleomkar)

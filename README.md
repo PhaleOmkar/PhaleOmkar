@@ -35,11 +35,11 @@
 ---
 ### Overall Stats:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bharatmazire&count_private=true&theme=prussian)](https://github.com/bharatmazire)
+[![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=phaleomkar&count_private=true&theme=prussian)](https://github.com/phaleomkar)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatmazire&layout=compact&count_private=true&theme=prussian)](https://github.com/bharatmazire)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaleomkar&layout=compact&count_private=true&theme=prussian)](https://github.com/phaleomkar)
 
 ---
 

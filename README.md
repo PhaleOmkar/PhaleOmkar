@@ -32,6 +32,17 @@
 
 <br />
 
+---
+### Overall Stats:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bharatmazire&count_private=true&theme=prussian)](https://github.com/bharatmazire)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatmazire&layout=compact&count_private=true&theme=prussian)](https://github.com/bharatmazire)
+
+---
+
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=" alt="PhaleOmkar" /> -->  
 ---
 

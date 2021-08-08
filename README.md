@@ -1,11 +1,11 @@
 ### Hi there, 👋
 
 🌱 Currently learning graphics programming.
-
+---
 [![Phale Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaleomkar&count_private=true&show_icons=true&theme=github_dark)](https://github.com/phaleomkar/github-readme-stats) 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaleomkar&layout=compact&count_private=true&show_icons=true&theme=github_dark)](https://github.com/phaleomkar/github-readme-stats)
-
+---
 ### Languages and Tools:
 
 <img align="left" alt="C" height="30px" src="https://api.iconify.design/logos:c.svg" />
@@ -20,7 +20,7 @@
 <img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
-
+---
 ### Platforms:
 
 <img align="left" alt="Windows" height="28px" src="https://api.iconify.design/logos:microsoft-windows.svg" />
@@ -31,6 +31,7 @@
 <br />
 
 <br />
+---
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhaleOmkar&show_icons=true&theme=" alt="PhaleOmkar" /> -->  
 

@@ -1,11 +1,14 @@
 ### Hi there, 👋
 
 🌱 Currently learning graphics programming.
+
 ---
+
 [![Phale Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaleomkar&count_private=true&show_icons=true&theme=github_dark)](https://github.com/phaleomkar/github-readme-stats) 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaleomkar&layout=compact&count_private=true&theme=github_dark)](https://github.com/phaleomkar)
 ---
+
 ### Languages and Tools:
 
 <img align="left" alt="C" height="30px" src="https://api.iconify.design/logos:c.svg" />
@@ -21,6 +24,7 @@
 <img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 ---
+
 ### Platforms:
 
 <img align="left" alt="Windows" height="28px" src="https://api.iconify.design/logos:microsoft-windows.svg" />

@@ -4,6 +4,9 @@
 ---
 [![Phale Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar&count_private=true&show_icons=true&theme=github_dark)](https://github.com/phaleomkar/github-readme-stats) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaleomkar&layout=compact)](https://github.com/phaleomkar/github-readme-stats)
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaleOmkar&layout=compact&count_private=true&theme=github_dark)](https://github.com/PhaleOmkar)
 
 [![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar)](https://github.com/PhaleOmkar/github-readme-stats)

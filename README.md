@@ -8,6 +8,9 @@
 
 [![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhaleOmkar)](https://github.com/PhaleOmkar/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhaleOmkar&exclude_repo=github-readme-stats,PhaleOmkar.github.io)](https://github.com/PhaleOmkar/github-readme-stats)
+
+
 ---
 
 ### Languages and Tools:
